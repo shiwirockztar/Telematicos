@@ -140,3 +140,14 @@ ping -c 3 8.8.8.8
 - Los cambios son **inmediatos** pero **NO persistentes** (se pierden al reiniciar)
 - Para hacer cambios permanentes, editar `/etc/network/interfaces` o usar `netplan`
 - `iproute2` es el conjunto moderno de herramientas (reemplaza a `ifconfig` y `route`)
+
+
+CONFIGURACIÓN DE RED - 19/02/2026 14:30:22
+User: root | Host: ubuntu-server
+═════════════════════════════════════════
+Interfaz:    eth0
+IP:          192.168.1.50/24
+Gateway:     192.168.1.1
+DNS1:        8.8.8.8
+DNS2:        1.1.1.1
+═════════════════════════════════════════
