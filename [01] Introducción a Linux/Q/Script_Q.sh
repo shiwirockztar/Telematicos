@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script simple para configurar red con iproute2
-# Uso: sudo ./configurar_red.sh
+# Uso: sudo ./Script_Q.sh
 
 # $EUID  -> Efectivo ID de usuario (0 para root) ne -> not equal
 if [[ $EUID -ne 0 ]]; then
