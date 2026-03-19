@@ -2,6 +2,8 @@
 
 Este repositorio contiene notas y comandos esenciales de una introducción a Linux enfocada en servicios telemáticos de redes. La información cubre desde conceptos básicos del sistema operativo hasta configuración avanzada de red y scripting.
 
+para abrir los pdf #clave tele
+
 ## 📚 Tabla de Contenidos
 
 - [Acceso Administrativo](#acceso-administrativo)
